@@ -5,13 +5,10 @@
 
 ---
 
-| Homepage | Lottery |
-|----------|---------|
-| ![Homepage](screenshots/login.png) | ![40-number Lottery](screenshots/lotteria_40_numeri.png) |
-
-| Roulette | Horse Racing |
-|----------|--------------|
-| ![Roulette](screenshots/roulette.png) | ![Horse Racing](screenshots/cavalli.png) |
+![Homepage](screenshots/login.png) 
+![40-number Lottery](screenshots/lotteria_40_numeri.png) 
+![Horse Racing](screenshots/cavalli.png) 
+![Roulette](screenshots/roulette.png) 
 
 ---
 
@@ -57,7 +54,7 @@ No external libraries, no frameworks — written from scratch.
    ```
 3. Start Apache and MySQL from the XAMPP control panel
 4. Import the database (`db.sql`) via phpMyAdmin
-5. Open `http://localhost/scommesse/`
+5. Open `http://localhost/scommesse/iniziosito.php`
 
 ---
 
