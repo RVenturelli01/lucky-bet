@@ -1,63 +1,33 @@
-# LuckyBet 🎰
+# Amateur Projects
 
-> A simulated gambling platform — no real money, just fun.  
-> High school project built with PHP, JavaScript, and pure CSS.
-
----
-
-![Homepage](screenshots/login.png) 
-![40-number Lottery](screenshots/lotteria_40_numeri.png) 
-![Horse Racing](screenshots/cavalli.png) 
-![Roulette](screenshots/roulette.png) 
+A collection of personal projects built for fun — from high school to university.
 
 ---
 
-## Games
+## Projects
 
-- **SuperEnalotto** — classic Italian lottery draw from 90 numbers
-- **40-number Lottery** — pick 6 numbers out of 40
-- **50-number Lottery** — wider pool variant
-- **Horse Racing** — bet on a horse and watch the animated race
-- **Roulette** — full betting table with single numbers, dozens, red/black, even/odd, 1–18 / 19–36
-
----
-
-## Features
-
-- User registration and login with PHP sessions
-- **Guest mode** to play without an account
-- Persistent score saved after each round
-- **Live global leaderboard** in the sidebar
-- Native JavaScript animations (spinning roulette wheel, moving horses)
-- Dark responsive UI built entirely in vanilla CSS, no frameworks
+| Project | Description | Tech |
+|---------|-------------|------|
+| [lucky-bet](lucky-bet/) | Simulated gambling platform with multiple casino games | PHP, MySQL, JS, CSS |
+| [remote-controlled-car](remote-controlled-car/) | Arduino-powered RC car controlled via Bluetooth | Arduino, C++ |
+| [fan-led](fan-led/) | Arduino fan with LED effects | Arduino, C++ |
 
 ---
 
-## Tech stack
+### [lucky-bet](lucky-bet/)
 
-| Layer | Technologies |
-|-------|-------------|
-| Backend | PHP, MySQL |
-| Frontend | HTML, CSS, JavaScript (vanilla) |
-| Local server | XAMPP (Apache + MySQL) |
+Simulated gambling platform built during high school. Includes SuperEnalotto, lotteries, horse racing, and roulette — all with vanilla JS animations and a live leaderboard.
 
-No external libraries, no frameworks — written from scratch.
+![Login](lucky-bet/screenshots/login.png)
 
 ---
 
-## Run locally
+### [remote-controlled-car](remote-controlled-car/)
 
-1. Install [XAMPP](https://www.apachefriends.org/)
-2. Clone the repo into the `htdocs` folder:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/luckybet.git xampp/htdocs/scommesse
-   ```
-3. Start Apache and MySQL from the XAMPP control panel
-4. Import the database (`db.sql`) via phpMyAdmin
-5. Open `http://localhost/scommesse/iniziosito.php`
+Arduino RC car controlled wirelessly via Bluetooth. Built from scratch with custom chassis and motor driver circuit.
 
 ---
 
-## Background
+### [fan-led](fan-led/)
 
-Built during high school as a full-stack exercise — covering PHP session management, vanilla JavaScript DOM manipulation, and CSS layout from scratch. Check out my other projects to follow the progression from high school to my master's degree.
+Arduino-controlled fan with LED lighting effects. Combines PWM motor control with programmable RGB patterns.
