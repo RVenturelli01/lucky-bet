@@ -38,7 +38,7 @@ Replaced IR with Bluetooth communication. The controller is a custom board held 
 
 <table width="100%">
 <tr>
-<td width="40%"><video src="https://github.com/user-attachments/assets/VIDEO_AUTO3_NEW_URL" width="100%" controls></video></td>
+<td width="40%"><video src="https://github.com/user-attachments/assets/0caa598d-47da-4041-beb5-149e46c306a0" width="100%" controls></video></td>
 <td width="60%"><img src="media/image.png" width="100%"/></td>
 </tr>
 </table>
