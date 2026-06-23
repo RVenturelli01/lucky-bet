@@ -53,4 +53,11 @@ https://github.com/user-attachments/assets/9e0cf2b5-24aa-4144-a9ce-b4ff6f31acab
 
 ### [fan-led](fan-led/)
 
-Arduino-controlled fan with LED lighting effects. Combines PWM motor control with programmable RGB patterns.
+POV display built on an Arduino-controlled fan — LEDs on a spinning arm create persistent images through persistence of vision.
+
+<table width="100%"><tr>
+<td width="50%"><img src="fan-led/media/stella.jpg" width="100%"/></td>
+<td width="50%"><!-- upload pc_e_fanled_cuore.mp4 and replace URL -->
+https://github.com/user-attachments/assets/PC_E_FANLED_CUORE_URL
+</td>
+</tr></table>
