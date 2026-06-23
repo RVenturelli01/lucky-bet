@@ -11,11 +11,11 @@ Basic chassis controlled via infrared remote.
 <table width="100%">
 <tr>
 <td width="50%"><img src="media/foto auto1.jpg" width="100%"/></td>
-<td width="50%"><video src="https://github.com/user-attachments/assets/c5cfb97a-917e-4e1b-b1c7-dfe6819720c7" width="100%" controls></video></td>
+<td width="50%"><video src="https://github.com/user-attachments/assets/7c883d80-21f6-4992-b2cd-875f1ab033be" width="100%" controls></video></td>
 </tr>
 </table>
 
-<video src="https://github.com/user-attachments/assets/7c883d80-21f6-4992-b2cd-875f1ab033be" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/c5cfb97a-917e-4e1b-b1c7-dfe6819720c7" controls width="100%"></video>
 
 ---
 
@@ -36,12 +36,10 @@ Improved chassis and wiring on the same infrared control system.
 
 Replaced IR with Bluetooth communication. The controller is a custom board held in hand.
 
-<table width="100%">
-<tr>
-<td width="40%"><video src="https://github.com/user-attachments/assets/754e3218-5360-4fe4-aafc-8a2b3adf86b9" width="100%" controls></video></td>
+<table width="100%"><tr>
+<td width="40%"><video src="https://github.com/user-attachments/assets/0caa598d-47da-4041-beb5-149e46c306a0" width="100%" controls></video></td>
 <td width="60%"><img src="media/image.png" width="100%"/></td>
-</tr>
-</table>
+</tr></table>
 
 ---
 
